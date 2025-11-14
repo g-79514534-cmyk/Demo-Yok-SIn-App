@@ -1,0 +1,5 @@
+{
+  "name": "Yu Xin School 100th Anniversary Seating Inquiry System",
+  "description": "A web application for guests to look up their seat numbers for Yu Xin School's 100th anniversary celebration. Includes an admin panel for uploading seating data via Excel files.",
+  "requestFramePermissions": []
+}
